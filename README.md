@@ -1,4 +1,4 @@
-# POS_system.py\
+# POS_system.py
 Pharmacy Point of Sale (POS) System
 Project Overview
 This project is a foundational implementation of a real-time Point of Sale (POS) system specifically designed to meet the unique operational needs of a pharmaceutical shop. It aims to streamline daily sales operations, manage inventory effectively, and lay the groundwork for regulatory compliance and efficient customer service in a pharmacy setting.
@@ -115,7 +115,7 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repo-name.git
+[git clone https://github.com/your-username/your-repo-name.git](https://github.com/Eugine1234/POS_system.py)
 cd your-repo-name
 
 Navigate to the Backend Directory:
